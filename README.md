@@ -4,7 +4,7 @@
 
 TodoMatic is a to do list application that I created using react frame work which allows you to add, edit, filter, mark and delete tasks.
 
-![ReactLogo](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60px">
 
 ## INSTALLATION
 1) ```git clone https://github.com/dogaegeozden/todomatic_react.git```
