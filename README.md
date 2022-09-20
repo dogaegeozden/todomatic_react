@@ -11,11 +11,10 @@ TodoMatic is a to do list application that I created using react frame work whic
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
 
-
 ## INSTALLATION
 1) ```git clone https://github.com/dogaegeozden/todomatic_react.git```
 2) ```cd todomatic_react```
-3) npm start
+3) ```npm start```
 
 ## USAGE 
 1) Enter a name select the dead line and press to the add button. 
